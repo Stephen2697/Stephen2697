@@ -1,4 +1,4 @@
-## 🚧 This Profile Construction In Progress 🚧
+## 🚧 Profile Construction In Progress 🚧
 ---
 
 ### Hang Tight! While You Wait; Here's my Panoramic of #10 Green @ Pebble Beach Golf Links ⛳️
