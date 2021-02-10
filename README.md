@@ -1,5 +1,9 @@
-> Hello there 👋
 ## 🚧 This Profile Construction In Progress, Hang Tight 🚧
+---
+
+> Hello From 🇮🇪  
+> *Don't be too judgemental, I'm just fighting off the ol' Imposter Syndrome 🤣* 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen2697&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
