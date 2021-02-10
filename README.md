@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hello there 👋, Profile Construction In Progress, Hang Tight 🛠
 
 # Stephen Alger
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen2697&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **Stephen2697/Stephen2697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
