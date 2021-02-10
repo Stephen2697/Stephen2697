@@ -1,4 +1,4 @@
-#### Hello there 👋
+> Hello there 👋
 ## 🚧 This Profile Construction In Progress, Hang Tight 🚧
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen2697&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
